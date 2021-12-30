@@ -1,6 +1,9 @@
 function [est, est_smooth] = run_filter(model,meas)
 
-% This is the MATLAB code for the (joint prediction and update) implementation of the Generalized Labeled Multi-Bernoulli filter proposed in
+% This is the demo script for the (joint prediction and update) implementation of the Generalized Labeled Multi-Bernoulli filter 
+% and the partial smoothing technique proposed in
+% T.T.D. Nguyen and D.Y. Kim, "GLMB Tracker with Partial Smoothing," Sensors, Vol. 19, No. 20, pp. 4419, 2019. 
+% https://https://www.mdpi.com/1424-8220/19/20/4419
 % B.-T. Vo, and B.-N. Vo, "An Efficient Implementation of the Generalized Labeled Multi-Bernoulli Filter," IEEE Trans. Signal Processing, Vol. 65, No. 8, pp. 1975-1987, 2017.
 % http://ba-ngu.vo-au.com/vo/VVH_FastGLMB_TSP17.pdf
 % corresponding to the (separate prediction and update) implementation proposed in
@@ -11,6 +14,16 @@ function [est, est_smooth] = run_filter(model,meas)
 % http://ba-ngu.vo-au.com/vo/VV_Conjugate_TSP13.pdf
 %
 % ---BibTeX entry
+% @ARTICLE{GLMB_PartialSmooth,
+%   author    = {Nguyen, Tran Thien Dat and Kim, Du Yong},
+%   title     = {GLMB Tracker with Partial Smoothing},
+%   journal   = {Sensors},
+%   year      = {2019},
+%   volume    = {19},
+%   number    = {20},
+%   pages     = {4419},
+%   publisher = {Multidisciplinary Digital Publishing Institute}}
+%
 % @ARTICLE{GLMB3,
 % author={B.-N. Vo and B.-T. Vo and H. Hung},
 % journal={IEEE Transactions on Signal Processing},
