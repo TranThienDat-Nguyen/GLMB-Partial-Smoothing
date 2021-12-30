@@ -11,8 +11,8 @@ This is an implementation of the partial smoother for GLMB filter described in:\
 The paper is available at https://https://www.mdpi.com/1424-8220/19/20/4419
 # Usages
 Run demo.m to run the simulation.\
-Uncomment line 65 to run linear dynamic scenario.\
-Uncomment line 66 to run non-linear dynamic scenario.\
+Uncomment line 65 to run linear dynamic experiment.\
+Uncomment line 66 to run non-linear dynamic experiment.
 # Acknowledgments
 This implementation is based on MATLAB RFS tracking toolbox provided by Prof. Ba-Tuong Vo at http://ba-tuong.vo-au.com/codes.html. \
 # Contact
