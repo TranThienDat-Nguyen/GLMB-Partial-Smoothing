@@ -7,7 +7,7 @@ This is an implementation of the partial smoother for GLMB filter described in:\
   &nbsp;&nbsp;&nbsp;&nbsp;year={2019},\
   &nbsp;&nbsp;&nbsp;&nbsp;volume={19},\
   &nbsp;&nbsp;&nbsp;&nbsp;number={20},\
-  &nbsp;&nbsp;&nbsp;&nbsp;pages={4419},\
+  &nbsp;&nbsp;&nbsp;&nbsp;pages={4419}}\
 The paper is available at https://https://www.mdpi.com/1424-8220/19/20/4419
 # Instructions
 Run demo.m to run the simulation.\
