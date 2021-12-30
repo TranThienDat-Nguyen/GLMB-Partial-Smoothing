@@ -14,7 +14,7 @@ Run demo.m to run the simulation.\
 Uncomment line 65 to run linear dynamic experiment.\
 Uncomment line 66 to run non-linear dynamic experiment.
 # Acknowledgments
-This implementation is based on MATLAB RFS tracking toolbox provided by Prof. Ba-Tuong Vo at http://ba-tuong.vo-au.com/codes.html. \
+This implementation is based on MATLAB RFS tracking toolbox provided by Prof. Ba-Tuong Vo at http://ba-tuong.vo-au.com/codes.html.
 # Contact
 For any queries please contact me at tranthiendat.nguyen@gmail.com.\
 Copyright (C) 2021, Tran Thien Dat Nguyen.
