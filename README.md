@@ -1,5 +1,5 @@
 # GLMB Tracker with Partial Smoothing
-This is an implementation of the partial smoother for GLMB filter described in:\
+This is an implementation of the partial smoother for GLMB filter proposed in:\
 @ARTICLE{GLMB_PartialSmooth, \
   &nbsp;&nbsp;&nbsp;&nbsp;author={Nguyen, Tran Thien Dat and Kim, Du Yong}, \
   &nbsp;&nbsp;&nbsp;&nbsp;journal={Sensors},  \
