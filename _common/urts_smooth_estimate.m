@@ -13,10 +13,3 @@ X_temp_covariance = X_ukf(1:model.x_dim,:) - repmat(m(:,ii),[1 length(u)]) ; % C
 C_n_p= X_temp_covariance*diag(u)*X_temp_covariance_p' ; % cross-covariance between 2 time steps
 D = C_n_p /P_n_p ; % smooth gain
 m_s = m(:,ii) + D*(m_s_p(:,jj) - m_predict) ; % smoothed mean
-
-
-
-
-
-
-
