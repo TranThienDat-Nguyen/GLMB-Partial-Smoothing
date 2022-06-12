@@ -1,13 +1,15 @@
 # GLMB Tracker with Partial Smoothing
-This is an implementation of the partial smoother for GLMB filter proposed in:\
-@ARTICLE{GLMB_PartialSmooth, \
-  &nbsp;&nbsp;&nbsp;&nbsp;author={Nguyen, Tran Thien Dat and Kim, Du Yong}, \
-  &nbsp;&nbsp;&nbsp;&nbsp;journal={Sensors},  \
-  &nbsp;&nbsp;&nbsp;&nbsp;title={GLMB Tracker with Partial Smoothing}, \
-  &nbsp;&nbsp;&nbsp;&nbsp;year={2019},\
-  &nbsp;&nbsp;&nbsp;&nbsp;volume={19},\
-  &nbsp;&nbsp;&nbsp;&nbsp;number={20},\
-  &nbsp;&nbsp;&nbsp;&nbsp;pages={4419}}\
+This is an implementation of the partial smoother for GLMB filter proposed in:
+```
+@ARTICLE{GLMB_PartialSmooth,
+  author={Nguyen, Tran Thien Dat and Kim, Du Yong},
+  journal={Sensors}, 
+  title={GLMB Tracker with Partial Smoothing}, 
+  year={2019},
+  volume={19},
+  number={20},
+  pages={4419}}
+```
 The paper is available at https://www.mdpi.com/1424-8220/19/20/4419
 # Instructions
 Run demo.m to run the simulation.\
